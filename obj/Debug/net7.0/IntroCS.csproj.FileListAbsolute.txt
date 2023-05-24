@@ -1,0 +1,15 @@
+/Users/niyambhat/Projects/IntroCS/IntroCS/bin/Debug/net7.0/IntroCS
+/Users/niyambhat/Projects/IntroCS/IntroCS/bin/Debug/net7.0/IntroCS.deps.json
+/Users/niyambhat/Projects/IntroCS/IntroCS/bin/Debug/net7.0/IntroCS.runtimeconfig.json
+/Users/niyambhat/Projects/IntroCS/IntroCS/bin/Debug/net7.0/IntroCS.dll
+/Users/niyambhat/Projects/IntroCS/IntroCS/bin/Debug/net7.0/IntroCS.pdb
+/Users/niyambhat/Projects/IntroCS/IntroCS/obj/Debug/net7.0/IntroCS.csproj.AssemblyReference.cache
+/Users/niyambhat/Projects/IntroCS/IntroCS/obj/Debug/net7.0/IntroCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niyambhat/Projects/IntroCS/IntroCS/obj/Debug/net7.0/IntroCS.AssemblyInfoInputs.cache
+/Users/niyambhat/Projects/IntroCS/IntroCS/obj/Debug/net7.0/IntroCS.AssemblyInfo.cs
+/Users/niyambhat/Projects/IntroCS/IntroCS/obj/Debug/net7.0/IntroCS.csproj.CoreCompileInputs.cache
+/Users/niyambhat/Projects/IntroCS/IntroCS/obj/Debug/net7.0/IntroCS.dll
+/Users/niyambhat/Projects/IntroCS/IntroCS/obj/Debug/net7.0/refint/IntroCS.dll
+/Users/niyambhat/Projects/IntroCS/IntroCS/obj/Debug/net7.0/IntroCS.pdb
+/Users/niyambhat/Projects/IntroCS/IntroCS/obj/Debug/net7.0/IntroCS.genruntimeconfig.cache
+/Users/niyambhat/Projects/IntroCS/IntroCS/obj/Debug/net7.0/ref/IntroCS.dll
